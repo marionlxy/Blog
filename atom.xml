@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marionlxy.github.io/Blog</id>
     <title>Sean</title>
-    <updated>2020-09-26T05:06:42.210Z</updated>
+    <updated>2020-09-26T05:13:20.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://marionlxy.github.io/Blog"/>
     <link rel="self" href="https://marionlxy.github.io/Blog/atom.xml"/>
@@ -11,134 +11,35 @@
     <icon>https://marionlxy.github.io/Blog/favicon.ico</icon>
     <rights>All rights reserved 2020, Sean</rights>
     <entry>
-        <title type="html"><![CDATA[要努力开始自己的生活]]></title>
-        <id>https://marionlxy.github.io/Blog/post/yao-nu-li-kai-shi-zi-ji-de-sheng-huo/</id>
-        <link href="https://marionlxy.github.io/Blog/post/yao-nu-li-kai-shi-zi-ji-de-sheng-huo/">
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://marionlxy.github.io/Blog/post/hello-gridea/</id>
+        <link href="https://marionlxy.github.io/Blog/post/hello-gridea/">
         </link>
-        <updated>2020-09-26T04:59:19.000Z</updated>
-        <content type="html"><![CDATA[<p>一个人男人要走多少路，才能称之为男子汉，一只白鸽要飞跃几多重洋，才能憩息在沙滩上？ ——鲍勃.迪伦</p>
-<p>草地在哪，脱缰的野马需要自由的驰骋。<br>
-日子一天天流逝，未来不可追，想要好好的活，努力沉下心来干一件事，未来才可能属于自己的。<br>
-我有资本，我有热情，我有满腔的自信。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我回长沙了]]></title>
-        <id>https://marionlxy.github.io/Blog/post/wo-hui-chang-sha-liao/</id>
-        <link href="https://marionlxy.github.io/Blog/post/wo-hui-chang-sha-liao/">
-        </link>
-        <updated>2020-09-26T04:58:50.000Z</updated>
-        <content type="html"><![CDATA[<p>心若没有栖息的地方，到哪里都是流浪。</p>
-<p>窗外知了在深深的叫着夏天，但是城市似乎还是缺少了蛙声。</p>
-<p>我已回来三月有余，生活够闲，因此满腹牢骚只能付诸文字了，有人说，沉浸读书写字的人，充满对生活的逃避，我想想还是有一定道理的，长沙没有北上广那么拼。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我离职了]]></title>
-        <id>https://marionlxy.github.io/Blog/post/wo-chi-zhi-liao/</id>
-        <link href="https://marionlxy.github.io/Blog/post/wo-chi-zhi-liao/">
-        </link>
-        <updated>2020-09-26T04:57:40.000Z</updated>
-        <content type="html"><![CDATA[<p>我离职了，当然不会像什么影响力，我只是一个普通的，接近野生的程序员,和什么百度人工智能首席科学家吴恩达离职事件相比，根本就是两个世界发生的事件，可能，我有的只是，世界很大，我想去看看。</p>
-<p>离职说了，我应该谈谈接下来的生活plan，说实话，我是一个北漂，可能几年下来，我都没有固定下来，我来这里目的，更多可能是找一份好的工作，赚一点回家买房的钱，其它可有，无则免之。</p>
-<p>我知道离职这段期间，我的心情会紧绷，因为背后会有一些压力，买房，结婚，生子，养老，毕竟，到了这个年纪，很多东西也会伴随而来，这会让我莫名的局促不安，所以我想通过一些文字表述，能排序，释放我的一些压力</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阳春白雪]]></title>
-        <id>https://marionlxy.github.io/Blog/post/yang-chun-bai-xue/</id>
-        <link href="https://marionlxy.github.io/Blog/post/yang-chun-bai-xue/">
-        </link>
-        <updated>2020-09-26T04:56:48.000Z</updated>
-        <content type="html"><![CDATA[<p>2017年02月21日，中午时分，北京的天空下起了湿湿绵绵的小雪，惹人怜爱，记得去年整个冬天，北京以北没有下过一场规模如此空前的“大雪”，但是总觉得这场雪下得不是时候，为什么来的这么晚。</p>
-<p>今天驻扎到一家本地银行的现场，搭建项目环境，准备几个月后上线，几个月以前，我还没下过如此早的班，走出大厦，雪景如此，迎面清爽，苦笑一声，走向地铁。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[幸福有时会迟到，但它从不缺席]]></title>
-        <id>https://marionlxy.github.io/Blog/post/xing-fu-you-shi-hui-chi-dao-dan-ta-cong-bu-que-xi/</id>
-        <link href="https://marionlxy.github.io/Blog/post/xing-fu-you-shi-hui-chi-dao-dan-ta-cong-bu-que-xi/">
-        </link>
-        <updated>2020-09-26T04:56:25.000Z</updated>
-        <content type="html"><![CDATA[<p>2017年早春三月时节，还在北京，结束完一天的工作，走出大厦，回头看了一眼，高层还在灯火通明中，苦笑一声，往地铁走去。周末不要加班，感觉已足够的幸运。</p>
-<p>在这个陌生的城市想要与另一个熟悉的城市某个人建立一段感情联系，异常艰辛，除非你有浓烈的爱，通过微信，QQ等等，传达了一些信息，感情还悬在空中，在看不见的比特磁场电波里来回震荡，找不到归处，</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[年关]]></title>
-        <id>https://marionlxy.github.io/Blog/post/nian-guan/</id>
-        <link href="https://marionlxy.github.io/Blog/post/nian-guan/">
-        </link>
-        <updated>2020-09-26T04:55:14.000Z</updated>
-        <content type="html"><![CDATA[<p>对于简体字用久了，还知不知道关的繁体字怎么写,繁体是最能体现象形，指事，会意的文字，流传变迁至今，可谓博大精深，“關”字，在许慎的《说文解字》中，指：以木橫持門戶也。表示用木栓横穿两扇门的栓孔，再加绳索系绑，使两扇门板牢牢紧闭。引申到现在除了闭合，合拢之意等，还意指重要的转折点，不易度过的时机，比如，“年关”。</p>
-<p>一年到头了，年兽给我们设立了一道关卡。好的坏的，欣喜的糟糕的，亲切的不亲切的，可预见的不可预见的，和有钱有关的和没钱有关的，五味杂陈，有一夫当关，万夫莫开之囧。岂非能有“饮苦不举眉，尝欢无扬笑”之境界。</p>
-<p>一座城市，承载着太多人的梦想，第一次会拼的特别认真，但是两三年下来，这座城市，让我的人生幸福感呈现负增长，这份工作，让我对此刻的职业生涯产生滑坡之感，滑铁卢战役，只能执此一役。岁月不曾饶恕，人生经不起蹉跎。</p>
-<p>年关是一年的最重要的转折点，不易度过的时机，不易度过，因为人生又经历了一阶段，人生能有几个年头，不把过往总结一翻，来年在变动中找不到方向，老来会觉得没有谈资，总结在这些细节琐碎里的成长，是同自己斗争的一段奇怪经历。</p>
-<p>一直走，我的来年没有计划，我在找回去的路。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[什么样的公司，才是好公司？]]></title>
-        <id>https://marionlxy.github.io/Blog/post/shi-me-yang-de-gong-si-cai-shi-hao-gong-si/</id>
-        <link href="https://marionlxy.github.io/Blog/post/shi-me-yang-de-gong-si-cai-shi-hao-gong-si/">
-        </link>
-        <updated>2020-09-26T04:54:41.000Z</updated>
-        <content type="html"><![CDATA[<p>现在所在的公司，是在13年被一家大公司收购的小公司，我也不知道当初是在什么情况下，以何种方式，形式并购的案例，对于这种事情，公司老总，老员工自然不会提及，更有可能是机密，记得前几月，公司搬到母公司来，老总也没说，更凑巧的是，一次聊天中，我故意说这家大公司，老喜欢吞并小公司，又没有取长补短的优势，还引来管理不善的弊端，惹怒老总得不悦。</p>
-<p>事实上，被收购几年下来，小公司的发展模式还是按照以前的模式发展，这期间小公司应该多多少少盈利了一些，不然会被大公司整顿，小公司03年成立以来，以这种同银行打交道的技术水平，确实不敢恭维，小公司目前的盈利方式，主要靠项目和人员外包，也就是小三的干活，这也是现在大部分软件公司的模式，真正像用友这样有自己产品线品牌的公司几乎没有。</p>
-<p>说实话，在几家软件公司待过， 感觉一家不如一家，当初进这家公司，是因为自己脑子因为一点小钱进的水，明知道公司加班，明知道公司挤在一室两厅的小区里，还奋不顾身进来了，进来之后，公司因为是驻场开发，果然什么技术资产，组织知产基本都没有，跟不上当今主流的开发技术和环境（用云环境还说不安全，我差点尿了），一进来让你和其它许多新人（应届生比较多）维护一个10多年的老系统，业务基本一致的情况下，还在不断改bug，以不断适应新的买方（我怀疑公司领导应该是某个银行的高层，基本上该银行全国都有此项目）。业务接到新的业务就马不停蹄的进行编码开发，根本没遵循项目开发流程，反正是把开发人员往死里敢，需求，设计，计划都是后面补上，领导只看结果，我想这也是小公司发展不起来的原因了，到是小公司领导腰包鼓鼓的，有车有房，应届生新员工倒是换一批又一批，这也是小公司发展不起来的原因，真可怕！</p>
-<p>小公司说完了，我该说我理想的公司了，理想的公司应该属于国外的google，facebook这类了，各种环境当然没得话说，人员充足高手众多，一些项目都是自发组织接下来的，能很好的找到自己的兴趣点，给你足够的试错和总结的时间和机会，更注重交流。</p>
-<p>在国内，也有像bat这样有特色的公司，但是这样说，未免方向有点大了，我觉得我们工作中，最重要的看一下公司的部门团队，因为那是有实质性的地方，更能给人有直观感受，自由，开放，交流，能充满凝聚力，生产力，产生效率。</p>
-<p>为什么有骨干或者leader，临走时喜欢带走一批自己的人员，因为小团队，是最能代表生产力，他们带走的是公司的文化和效率，希望下次，我能找到这样的部门团队，或者有生之年我能创建这样的公司，组建这样的团队。</p>
-<p>it’s my honor!fighting to meet yours soon!</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[又是一年圣诞季]]></title>
-        <id>https://marionlxy.github.io/Blog/post/you-shi-yi-nian-sheng-dan-ji/</id>
-        <link href="https://marionlxy.github.io/Blog/post/you-shi-yi-nian-sheng-dan-ji/">
-        </link>
-        <updated>2020-09-26T04:54:16.000Z</updated>
-        <content type="html"><![CDATA[<p>又是一年圣诞季，这是无信仰的人忧郁的一天，有时顿觉生活的意义全无。<br>
-我不信耶稣,狂欢似乎与我无关,但是狂欢是一个人的内心孤单。我想我是海，但是一颗小石块都可以激起我内心的澎湃。我想我是苍穹，但是一只鸟也会留下痕迹。狂欢一直都与我有关，从布满雪花的窗户开始……</p>
-<p>灯火辉煌的街头，要属这个时候了吧，马路边上灯光树，商场上圣诞树，各种狂欢party，饕餮大餐，精致礼物，赏心悦目之处，更多一分欣喜,这种装点一新的生活，无疑可以带给人们太多的欢乐。</p>
-<p>有时，一群人的狂欢也带给了一个人的孤单，忙碌了一年，是该收尾了。</p>
-<p>人越活越长，越活越复杂，就像做软件一样，刚开始就几个功能，也是最简单的，人生经历起来也是最舒服的，可经过几个迭代后，功能与非功能叠加，内外交互在一起就变得复杂了，IBM大型电脑之父brooks说：没有任何一项技术或方法可使软件工程的生产力在十年内提高十倍，这就是他所谓的“没有银弹理论”，因为没有一种技术能彻底的舍弃了人的存在。</p>
-<p>最近，这几天在着手改一个资金交易系统的生产环境上的bug，我觉得真他妈有点想死，感觉就像用古代的技术去破解现代技术上的难题（业务不熟），好多信息取不到，这回真不是改三次需求足可以杀死一只猿，我觉得有时一个异地的，远程的bug就够了。</p>
-<p>还有，我觉得改bug就像破一起案件，像这种bug,我觉得要算一起刑事案件了，首先案发后，要勘察现场环境，并保存现场环境的状态，以便后续刑侦采样（悲催，我只能看截图来分析案发现场了，并且案发现场还在交易当中），第二步：凭借着蛛丝马迹，把这些表象串联起来，一步一步复原当时的整个案件过程，重新演绎，还原案发真相（这关键一步也忒悲催，一出现问题就把整个日志发给你，想要的信息拿不到，信息全都封闭，我真他妈是大胆假设，小心求证），第三步，分析杀人动机，证明没有不在场证明，你所说的一切都全都作为呈堂证供（悲催,我能责怪上帝吗，上帝要吃屎，你也拦着，他吃屎的时候，你难道没有想过把他的嘴缝上），第四步，破案之后，收拾现场，整理案件，提交档案(悲催，因为是生产环境，系统还在运行当中，要把交易数据调平！调平！调平！最终要把这起案件抹掉，我想这一定是一起贪污腐败谋杀案，如果把这件事办砸了，我最终会不会替罪羔羊，原来自己成了最终凶手)， 好的，案件办完了，我到底是侦探还是凶手手？？？</p>
-<p>不可想象，案件也无疾而终，这是软件所理解不了人的高度吧。</p>
-<p>岁寒催人老，吹出人脸上容颜蜿蜒积累的复杂，这一年经历又多了一层，有苦过，还是有苦过，<br>
-欢乐也不是没有，但那是一个的郁郁寡欢的年代。那一年我还在北京的公司里加班，诉说着圣诞夜即将来临，北漂的孩子少有团聚的快乐。</p>
-<p>狂欢的舞动，会引起时间的跳格，那是一段优美的音乐，merry christmas to yours.</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我又搬家了]]></title>
-        <id>https://marionlxy.github.io/Blog/post/wo-you-ban-jia-liao/</id>
-        <link href="https://marionlxy.github.io/Blog/post/wo-you-ban-jia-liao/">
-        </link>
-        <updated>2020-09-26T04:53:21.000Z</updated>
-        <content type="html"><![CDATA[<p>快过年的了，今年已经搬了两次家了，这次搬到了离公司近一点的地方，只为了减少上班行程，从接近两个小时，缩短为20分钟，我想生活要舒服点，尽管处在奋斗的年纪。</p>
-<p>但是每次搬家，带给我的感受不同的，第一次，我想在奋斗，毕业才刚开始呢，第二次，我想我还在奋斗，我没使出全身力气，但三次，我想算了，搬就搬呗，反正自己走的是这条路，跪着也要走完。</p>
-<p>说实话，我在外面遇到了好多坑，这次搬家，我把这个冬天的暖气费全交了，然后房东就是这么拖啊拖，说多多少少会退一点给我，结果一分钱没得退，还找各种理由借口，说钱什么都已交上去了，我的心受寒了。</p>
-<p>搬家的时候，由于行李太多，我把洗衣机，又重新回收给老板了，当时是350买进来的，结果几个月，转手我又只好已80卖给他，总之，还有好多狗血的事情,我是一只被各方神圣待宰的羔羊……</p>
-<p>这个冬天真冷，暖气总是得不到正常供应，所以我搬家的时候，被子特别多，有四床。</p>
-<p>前几天，我把这件事给我的相亲对象说了一遍，然后，自己补了一句，城里套路深，我要回农村，结果他说：农村路更滑。我猛然惊醒了一下，我想那不是我想要的生活，那应该是我到不了过去，我怀恋的是一种童年生活。</p>
-<p>当我看着窗外远去的行道树，他们此刻也好像一个个朝我挥手的故人。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苦闷与彷徨]]></title>
-        <id>https://marionlxy.github.io/Blog/post/ku-men-yu-pang-huang/</id>
-        <link href="https://marionlxy.github.io/Blog/post/ku-men-yu-pang-huang/">
-        </link>
-        <updated>2020-09-26T04:52:45.000Z</updated>
-        <content type="html"><![CDATA[<p>苦闷跟彷徨却是时时刻刻的事情，可我们心意的事情毕竟是少数，不按照我们心意来的事情却是大多数</p>
-<p>总喜欢在自己累赘的时候，写一些伤感的文字，记录和体味这苦闷的味道。</p>
-<p>这次来源于工作感觉遇到了麻烦，不是自己不会弄，而是感觉到上上下下，自己孤立无援，项目完全不按照项目管理流程来，项目经理（暂且称为Y某，有四五年工作经验，是个女生，完全依赖X某）和技术leader（暂且称为X某，自称有十年工作经验），分析完业务，出了一半原型设计，一个数据库设计，然后就交给我我们开发人员去开发，做为项目组核心人员，我也是无语了，开发完全根据口头表述来做，边开发边设计模式。</p>
-<p>项目开发到不到一半上，开发遇到了瓶颈，X某主张用一个页面模板来生成所有web页面，满足不了所有业务需求，因为有些特殊的页面没有考虑进来，然后X某提出就这个页面模板上用if去判断要不要选择特殊的组件，并且这说是行的通，拆不拆分（分成多个模板）都不重要，我当时真他妈想吐了，拆分模板和从你通用角度有半毛钱关系，你怎么不把js和css都写到一个文件里，用夹门的脑袋想一想都知道。</p>
-<p>项目原定要去开发现场的，但是后来发现现场没有地方，就没有沦为外包小三的命运，但项目进度还是拼命敢，其余三个开发人员，有两个是应届毕业生，一个是从其他行业转过来的，用《人月神话》的角度讲，这只会拖慢项目进度，也就只能等着天天加班到很晚的彷徨了。</p>
-<p>对X某的无知和不懂，对Y某的依赖。怀着这种苦闷与彷徨的心情，我就只有对项目，公司都丧失了信心。</p>
-<p>未来的未来，翘首彷徨。</p>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
 ]]></content>
     </entry>
 </feed>
