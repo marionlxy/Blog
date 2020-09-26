@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/marionlxy</id>
+    <id>https://marionlxy.github.io</id>
     <title>Sean</title>
-    <updated>2020-09-26T05:00:58.590Z</updated>
+    <updated>2020-09-26T05:04:44.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/marionlxy"/>
-    <link rel="self" href="https://github.com/marionlxy/atom.xml"/>
+    <link rel="alternate" href="https://marionlxy.github.io"/>
+    <link rel="self" href="https://marionlxy.github.io/atom.xml"/>
     <subtitle>肖恩羊的程序人生</subtitle>
-    <logo>https://github.com/marionlxy/images/avatar.png</logo>
-    <icon>https://github.com/marionlxy/favicon.ico</icon>
+    <logo>https://marionlxy.github.io/images/avatar.png</logo>
+    <icon>https://marionlxy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Sean</rights>
     <entry>
         <title type="html"><![CDATA[要努力开始自己的生活]]></title>
-        <id>https://github.com/marionlxy/post/yao-nu-li-kai-shi-zi-ji-de-sheng-huo/</id>
-        <link href="https://github.com/marionlxy/post/yao-nu-li-kai-shi-zi-ji-de-sheng-huo/">
+        <id>https://marionlxy.github.io/post/yao-nu-li-kai-shi-zi-ji-de-sheng-huo/</id>
+        <link href="https://marionlxy.github.io/post/yao-nu-li-kai-shi-zi-ji-de-sheng-huo/">
         </link>
         <updated>2020-09-26T04:59:19.000Z</updated>
         <content type="html"><![CDATA[<p>一个人男人要走多少路，才能称之为男子汉，一只白鸽要飞跃几多重洋，才能憩息在沙滩上？ ——鲍勃.迪伦</p>
@@ -24,8 +24,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[我回长沙了]]></title>
-        <id>https://github.com/marionlxy/post/wo-hui-chang-sha-liao/</id>
-        <link href="https://github.com/marionlxy/post/wo-hui-chang-sha-liao/">
+        <id>https://marionlxy.github.io/post/wo-hui-chang-sha-liao/</id>
+        <link href="https://marionlxy.github.io/post/wo-hui-chang-sha-liao/">
         </link>
         <updated>2020-09-26T04:58:50.000Z</updated>
         <content type="html"><![CDATA[<p>心若没有栖息的地方，到哪里都是流浪。</p>
@@ -35,8 +35,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[我离职了]]></title>
-        <id>https://github.com/marionlxy/post/wo-chi-zhi-liao/</id>
-        <link href="https://github.com/marionlxy/post/wo-chi-zhi-liao/">
+        <id>https://marionlxy.github.io/post/wo-chi-zhi-liao/</id>
+        <link href="https://marionlxy.github.io/post/wo-chi-zhi-liao/">
         </link>
         <updated>2020-09-26T04:57:40.000Z</updated>
         <content type="html"><![CDATA[<p>我离职了，当然不会像什么影响力，我只是一个普通的，接近野生的程序员,和什么百度人工智能首席科学家吴恩达离职事件相比，根本就是两个世界发生的事件，可能，我有的只是，世界很大，我想去看看。</p>
@@ -46,8 +46,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[阳春白雪]]></title>
-        <id>https://github.com/marionlxy/post/yang-chun-bai-xue/</id>
-        <link href="https://github.com/marionlxy/post/yang-chun-bai-xue/">
+        <id>https://marionlxy.github.io/post/yang-chun-bai-xue/</id>
+        <link href="https://marionlxy.github.io/post/yang-chun-bai-xue/">
         </link>
         <updated>2020-09-26T04:56:48.000Z</updated>
         <content type="html"><![CDATA[<p>2017年02月21日，中午时分，北京的天空下起了湿湿绵绵的小雪，惹人怜爱，记得去年整个冬天，北京以北没有下过一场规模如此空前的“大雪”，但是总觉得这场雪下得不是时候，为什么来的这么晚。</p>
@@ -56,8 +56,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[幸福有时会迟到，但它从不缺席]]></title>
-        <id>https://github.com/marionlxy/post/xing-fu-you-shi-hui-chi-dao-dan-ta-cong-bu-que-xi/</id>
-        <link href="https://github.com/marionlxy/post/xing-fu-you-shi-hui-chi-dao-dan-ta-cong-bu-que-xi/">
+        <id>https://marionlxy.github.io/post/xing-fu-you-shi-hui-chi-dao-dan-ta-cong-bu-que-xi/</id>
+        <link href="https://marionlxy.github.io/post/xing-fu-you-shi-hui-chi-dao-dan-ta-cong-bu-que-xi/">
         </link>
         <updated>2020-09-26T04:56:25.000Z</updated>
         <content type="html"><![CDATA[<p>2017年早春三月时节，还在北京，结束完一天的工作，走出大厦，回头看了一眼，高层还在灯火通明中，苦笑一声，往地铁走去。周末不要加班，感觉已足够的幸运。</p>
@@ -66,8 +66,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[年关]]></title>
-        <id>https://github.com/marionlxy/post/nian-guan/</id>
-        <link href="https://github.com/marionlxy/post/nian-guan/">
+        <id>https://marionlxy.github.io/post/nian-guan/</id>
+        <link href="https://marionlxy.github.io/post/nian-guan/">
         </link>
         <updated>2020-09-26T04:55:14.000Z</updated>
         <content type="html"><![CDATA[<p>对于简体字用久了，还知不知道关的繁体字怎么写,繁体是最能体现象形，指事，会意的文字，流传变迁至今，可谓博大精深，“關”字，在许慎的《说文解字》中，指：以木橫持門戶也。表示用木栓横穿两扇门的栓孔，再加绳索系绑，使两扇门板牢牢紧闭。引申到现在除了闭合，合拢之意等，还意指重要的转折点，不易度过的时机，比如，“年关”。</p>
@@ -79,8 +79,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[什么样的公司，才是好公司？]]></title>
-        <id>https://github.com/marionlxy/post/shi-me-yang-de-gong-si-cai-shi-hao-gong-si/</id>
-        <link href="https://github.com/marionlxy/post/shi-me-yang-de-gong-si-cai-shi-hao-gong-si/">
+        <id>https://marionlxy.github.io/post/shi-me-yang-de-gong-si-cai-shi-hao-gong-si/</id>
+        <link href="https://marionlxy.github.io/post/shi-me-yang-de-gong-si-cai-shi-hao-gong-si/">
         </link>
         <updated>2020-09-26T04:54:41.000Z</updated>
         <content type="html"><![CDATA[<p>现在所在的公司，是在13年被一家大公司收购的小公司，我也不知道当初是在什么情况下，以何种方式，形式并购的案例，对于这种事情，公司老总，老员工自然不会提及，更有可能是机密，记得前几月，公司搬到母公司来，老总也没说，更凑巧的是，一次聊天中，我故意说这家大公司，老喜欢吞并小公司，又没有取长补短的优势，还引来管理不善的弊端，惹怒老总得不悦。</p>
@@ -94,8 +94,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[又是一年圣诞季]]></title>
-        <id>https://github.com/marionlxy/post/you-shi-yi-nian-sheng-dan-ji/</id>
-        <link href="https://github.com/marionlxy/post/you-shi-yi-nian-sheng-dan-ji/">
+        <id>https://marionlxy.github.io/post/you-shi-yi-nian-sheng-dan-ji/</id>
+        <link href="https://marionlxy.github.io/post/you-shi-yi-nian-sheng-dan-ji/">
         </link>
         <updated>2020-09-26T04:54:16.000Z</updated>
         <content type="html"><![CDATA[<p>又是一年圣诞季，这是无信仰的人忧郁的一天，有时顿觉生活的意义全无。<br>
@@ -113,8 +113,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[我又搬家了]]></title>
-        <id>https://github.com/marionlxy/post/wo-you-ban-jia-liao/</id>
-        <link href="https://github.com/marionlxy/post/wo-you-ban-jia-liao/">
+        <id>https://marionlxy.github.io/post/wo-you-ban-jia-liao/</id>
+        <link href="https://marionlxy.github.io/post/wo-you-ban-jia-liao/">
         </link>
         <updated>2020-09-26T04:53:21.000Z</updated>
         <content type="html"><![CDATA[<p>快过年的了，今年已经搬了两次家了，这次搬到了离公司近一点的地方，只为了减少上班行程，从接近两个小时，缩短为20分钟，我想生活要舒服点，尽管处在奋斗的年纪。</p>
@@ -128,8 +128,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[苦闷与彷徨]]></title>
-        <id>https://github.com/marionlxy/post/ku-men-yu-pang-huang/</id>
-        <link href="https://github.com/marionlxy/post/ku-men-yu-pang-huang/">
+        <id>https://marionlxy.github.io/post/ku-men-yu-pang-huang/</id>
+        <link href="https://marionlxy.github.io/post/ku-men-yu-pang-huang/">
         </link>
         <updated>2020-09-26T04:52:45.000Z</updated>
         <content type="html"><![CDATA[<p>苦闷跟彷徨却是时时刻刻的事情，可我们心意的事情毕竟是少数，不按照我们心意来的事情却是大多数</p>
